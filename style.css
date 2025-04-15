@@ -1,17 +1,17 @@
 body {
-  background-color: white;
-  text-lign: center;
-  margin-top: 100px;
-  font-family: "Times New Roman", serif;
+    background-color: white;
+    text-lign: center;
+    margin-top: 100px;
+    font-family: "Times New Roman", serif;
 }
 /* 第一種文字陰影效果（orange 背景感覺） */
 .orange-shadow {
-  color: black;
-  text-shadow: 4px 4px 4px orange;
+    color: black;
+    text-shadow: 4px 4px 4px orange;
 }
 
 /* 第二種文字陰影效果（gray+silver） */
 .gray-silver-shadow {
-  color: black;
-  text-shadow: 4px 4px 4px gray, 4px 4px 4px silver;
+    color: black;
+    text-shadow: 4px 4px 4px gray, 4px 4px 4px silver;
 }
