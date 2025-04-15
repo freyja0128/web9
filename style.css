@@ -5,7 +5,7 @@
 }
 
 /* 第二種文字陰影效果（gray+silver） */
-.gray-shadow {
+.gray-silver-shadow {
   color: black;
   text-shadow: 4px 4px gray, 4px 4px silver;
 }
